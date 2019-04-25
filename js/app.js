@@ -6,6 +6,7 @@ Find the div with the id of "name1" and replace the n/a with the following:
 
 Tay-Tay*/
 
+name1.innerHTML = 'Tay-Tay';
 
 /*2. DJ Khaled
 
@@ -13,6 +14,7 @@ Find the div with the id of "position2" and replace the n/a with the following:
 
 Project Manager*/
 
+position2.innerHTML = 'Project Manager';
 
 /*3. Piko Taro
 
@@ -20,11 +22,13 @@ Find the div with the id of "alias3" and replace the n/a with the following:
 
 Concatenation*/
 
+alias3.innerHTML = 'Concatenation';
 
 /*4. Prince
 
 Find the div with the class name of "profile" and replace the n/a with a verse from your favorite Prince song.*/
 
+.profile.innerHTML = 'Hi';
 
 
 /*5. Bruce Lee
